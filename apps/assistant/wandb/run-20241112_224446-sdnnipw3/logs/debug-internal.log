@@ -1,0 +1,14 @@
+{"time":"2024-11-12T22:44:46.828345744+03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-12T22:44:46.828357752+03:00","level":"INFO","msg":"created symlink","path":"/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/wandb/run-20241112_224446-sdnnipw3/logs/debug-core.log"}
+{"time":"2024-11-12T22:44:46.931357346+03:00","level":"INFO","msg":"created new stream","id":"sdnnipw3"}
+{"time":"2024-11-12T22:44:46.931385984+03:00","level":"INFO","msg":"stream: started","id":"sdnnipw3"}
+{"time":"2024-11-12T22:44:46.931511112+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"sdnnipw3"}}
+{"time":"2024-11-12T22:44:46.931623808+03:00","level":"INFO","msg":"sender: started","stream_id":"sdnnipw3"}
+{"time":"2024-11-12T22:44:46.931515+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sdnnipw3"}}
+{"time":"2024-11-12T22:44:47.360266257+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-12T22:45:00.677598677+03:00","level":"INFO","msg":"stream: closing","id":"sdnnipw3"}
+{"time":"2024-11-12T22:45:00.67762697+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-12T22:45:00.678256692+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-12T22:45:00.947112513+03:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-12T22:45:00.947131644+03:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-12T22:45:00.947135422+03:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}

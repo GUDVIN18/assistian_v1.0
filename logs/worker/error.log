@@ -1,0 +1,377 @@
+Downloading shards:   0%|          | 0/4 [00:00<?, ?it/s]Downloading shards:  25%|██▌       | 1/4 [01:59<05:57, 119.06s/it]Downloading shards:  50%|█████     | 2/4 [03:58<03:58, 119.27s/it]Downloading shards:  75%|███████▌  | 3/4 [05:55<01:58, 118.42s/it]Downloading shards: 100%|██████████| 4/4 [06:24<00:00, 82.79s/it] Downloading shards: 100%|██████████| 4/4 [06:24<00:00, 96.01s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:22<01:08, 22.69s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:42<00:42, 21.13s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:51<00:15, 15.35s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:51<00:00, 12.82s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-14 17:58:02.558610) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-14 18:05:55.805120) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:09<00:27,  9.17s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:17<00:17,  8.77s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:28<00:09,  9.82s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:28<00:00,  7.20s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-14 18:06:01.766067) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-14 18:07:07.454866) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:15<00:45, 15.32s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:33<00:33, 16.82s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:44<00:14, 14.30s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:44<00:00, 11.14s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-14 18:08:32.727274) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-14 18:11:43.531980) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:19<00:59, 19.82s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:39<00:39, 19.92s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:46<00:13, 13.79s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:46<00:00, 11.60s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-14 18:24:04.940817) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-14 18:25:26.534169) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:19<00:58, 19.55s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:38<00:38, 19.36s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:49<00:15, 15.63s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:50<00:00, 12.51s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-14 18:28:24.418553) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-14 18:28:46.244062) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:18<00:54, 18.22s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:34<00:34, 17.35s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:44<00:13, 13.91s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:44<00:00, 11.21s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  4.72it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00, 10.00it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 11.99it/s]
+Some parameters are on the meta device because they were offloaded to the cpu and disk.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-14 18:31:46.400743) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-14 18:50:26.365974) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:10:40.751216) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:10:40.751234) while time zone support is active.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:20:12.242225) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:20:14.131319) while time zone support is active.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/quantizers/auto.py:186: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Both `max_new_tokens` (=256) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:29:16.581364) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:32:03.277917) while time zone support is active.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/quantizers/auto.py:186: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Both `max_new_tokens` (=256) and `max_length`(=512) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:33:21.257961) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:33:46.158006) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:42:20.510528) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:42:21.588123) while time zone support is active.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/quantizers/auto.py:186: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:44:08.970406) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:44:19.595253) while time zone support is active.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/quantizers/auto.py:186: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:45:05.223483) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:45:30.697825) while time zone support is active.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/quantizers/auto.py:186: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:47:04.167987) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:47:50.266848) while time zone support is active.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/quantizers/auto.py:186: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:55:23.907725) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:55:49.200084) while time zone support is active.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/quantizers/auto.py:186: UserWarning: You passed `quantization_config` or equivalent parameters to `from_pretrained` but the model you're loading already has a `quantization_config` attribute. The `quantization_config` from the model will be used.
+  warnings.warn(warning_msg)
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 09:57:40.700130) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 09:58:06.139241) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:26:58.724277) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 10:26:58.724430) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:28:34.730497) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 10:28:34.730623) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:22<01:08, 23.00s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:46<00:46, 23.44s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:59<00:18, 18.40s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:59<00:00, 14.81s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:29:47.830454) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 10:31:43.147487) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:18<00:55, 18.38s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:38<00:38, 19.12s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:47<00:14, 14.87s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:47<00:00, 11.98s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:33:04.853874) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 10:34:44.839689) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:36:08.411915) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 10:36:08.412055) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:19<00:58, 19.45s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:39<00:39, 19.86s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:51<00:16, 16.07s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:51<00:00, 12.81s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:39:13.091299) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 10:40:56.747385) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:16<00:50, 16.99s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:31<00:30, 15.41s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:41<00:13, 13.20s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:41<00:00, 10.48s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:42:01.280132) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 10:43:27.805913) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:17<00:53, 17.73s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:36<00:36, 18.39s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:46<00:14, 14.45s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:46<00:00,  8.78s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:46<00:00, 11.61s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:49:31.538163) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 10:51:12.163506) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:51:16.818307) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 10:51:16.818460) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.08s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.13s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.12s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:25<00:00,  5.54s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:25<00:00,  6.49s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 10:59:31.179524) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:00:17.278892) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.25s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.15s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.24s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.58s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.55s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:01:08.697486) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:01:58.510002) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.09s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.31s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.17s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.62s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.57s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:03:44.716785) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:04:39.779266) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:07<00:23,  7.97s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.14s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.08s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:25<00:00,  5.56s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:25<00:00,  6.48s/it]
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/usr/lib/python3.12/multiprocessing/spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/multiprocessing/spawn.py", line 131, in _main
+    prepare(preparation_data)
+  File "/usr/lib/python3.12/multiprocessing/spawn.py", line 246, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/usr/lib/python3.12/multiprocessing/spawn.py", line 297, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 286, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/ubuntu/machine_learning/learning/machine_learning/server_worker.py", line 27, in <module>
+    pipeline = transformers.pipeline(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/pipelines/__init__.py", line 926, in pipeline
+    framework, model = infer_framework_load_model(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/pipelines/base.py", line 302, in infer_framework_load_model
+    raise ValueError(
+ValueError: Could not load model meta-llama/Meta-Llama-3.1-8B-Instruct with any of the following classes: (<class 'transformers.models.auto.modeling_auto.AutoModelForCausalLM'>, <class 'transformers.models.llama.modeling_llama.LlamaForCausalLM'>). See the original errors:
+
+while loading with AutoModelForCausalLM, an error is thrown:
+Traceback (most recent call last):
+  File "/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/pipelines/base.py", line 289, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/models/auto/auto_factory.py", line 564, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4174, in from_pretrained
+    hf_quantizer.validate_environment(device_map=device_map)
+  File "/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/quantizers/quantizer_bnb_8bit.py", line 101, in validate_environment
+    raise ValueError(
+ValueError: Some modules are dispatched on the CPU or the disk. Make sure you have enough GPU RAM to fit the quantized model. If you want to dispatch the model on the CPU or the disk while keeping these modules in 32-bit, you need to set `llm_int8_enable_fp32_cpu_offload=True` and pass a custom `device_map` to `from_pretrained`. Check https://huggingface.co/docs/transformers/main/en/main_classes/quantization#offload-between-cpu-and-gpu for more details. 
+
+while loading with LlamaForCausalLM, an error is thrown:
+Traceback (most recent call last):
+  File "/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/pipelines/base.py", line 289, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4174, in from_pretrained
+    hf_quantizer.validate_environment(device_map=device_map)
+  File "/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/transformers/quantizers/quantizer_bnb_8bit.py", line 101, in validate_environment
+    raise ValueError(
+ValueError: Some modules are dispatched on the CPU or the disk. Make sure you have enough GPU RAM to fit the quantized model. If you want to dispatch the model on the CPU or the disk while keeping these modules in 32-bit, you need to set `llm_int8_enable_fp32_cpu_offload=True` and pass a custom `device_map` to `from_pretrained`. Check https://huggingface.co/docs/transformers/main/en/main_classes/quantization#offload-between-cpu-and-gpu for more details. 
+
+
+
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:13:59.078984) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:13:59.079003) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:14:48.991707) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:14:49.981298) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:32:41.170756) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:32:41.170904) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:33:20.492571) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:33:20.492743) while time zone support is active.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:19<00:58, 19.45s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:39<00:39, 19.70s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:51<00:16, 16.19s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:51<00:00,  9.84s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:51<00:00, 12.86s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:33:50.059794) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:35:55.239735) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:39:49.428011) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:39:49.428175) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.33s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.16s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.32s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.80s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.70s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:40:44.459868) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:41:38.630274) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:09<00:28,  9.50s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:19<00:19,  9.57s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:28<00:09,  9.45s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:30<00:00,  6.37s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:30<00:00,  7.52s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:44:41.659853) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:45:34.246399) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:25,  8.34s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.27s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.42s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.75s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.70s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:48:41.183247) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:49:32.409187) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:25,  8.34s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.48s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.59s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  5.84s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  6.82s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:52:54.967999) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:53:35.621619) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.16s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:15<00:15,  7.93s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.02s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:25<00:00,  5.49s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:25<00:00,  6.42s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:54:09.264867) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:54:53.260796) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.29s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.31s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.41s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.63s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.63s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 11:57:06.575384) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 11:58:00.343663) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:26,  8.74s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:17<00:17,  8.68s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.65s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  5.92s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  6.93s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:05:58.262967) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:06:55.983659) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:26,  8.88s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:17<00:17,  8.74s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:26<00:08,  8.87s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:28<00:00,  5.98s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:28<00:00,  7.02s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:07:48.801062) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:08:33.232599) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:25,  8.40s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.45s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.32s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.71s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.69s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:09:45.586772) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:10:28.188158) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:09<00:28,  9.34s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:18<00:18,  9.23s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:27<00:09,  9.03s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:28<00:00,  6.11s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:28<00:00,  7.23s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:12:36.894105) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:13:19.002354) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:26,  8.77s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:18<00:18,  9.04s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:26<00:08,  8.95s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:28<00:00,  6.07s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:28<00:00,  7.13s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:22:54.534848) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:23:47.634384) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.11s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.31s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.35s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.68s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.64s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:25:21.493609) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:26:13.768178) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:09<00:28,  9.36s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:17<00:17,  8.74s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.46s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  5.77s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  6.86s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:27:44.579386) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:28:29.164751) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.20s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.12s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.20s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.66s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.58s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:29:14.908231) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:29:56.954487) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.18s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.10s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.09s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:25<00:00,  5.56s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:25<00:00,  6.49s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:31:02.875073) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:31:57.443919) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.12s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:15<00:15,  7.82s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:23<00:07,  7.73s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:24<00:00,  5.30s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:24<00:00,  6.23s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:32:29.675364) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:33:23.382177) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:25,  8.52s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.46s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.43s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  5.78s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  6.76s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:33:30.317796) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:34:14.107039) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:25,  8.35s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.23s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:24<00:08,  8.23s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.64s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.60s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:34:32.223323) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:35:26.841312) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:25,  8.38s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.46s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.44s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  5.77s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  6.75s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:36:21.160224) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:37:08.095257) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:24,  8.24s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.45s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.35s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  5.67s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.66s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:37:36.603325) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:38:20.935844) while time zone support is active.
+  warnings.warn(
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:25,  8.64s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:17<00:17,  8.60s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.52s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  5.78s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:27<00:00,  6.81s/it]
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_start_time received a naive datetime (2024-11-15 12:38:39.116274) while time zone support is active.
+  warnings.warn(
+/home/ubuntu/machine_learning/learning/machine_learning_venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py:1665: RuntimeWarning: DateTimeField Process.process_end_time received a naive datetime (2024-11-15 12:39:30.242184) while time zone support is active.
+  warnings.warn(

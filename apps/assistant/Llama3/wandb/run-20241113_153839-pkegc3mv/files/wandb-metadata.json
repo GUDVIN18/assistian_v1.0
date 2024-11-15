@@ -1,0 +1,39 @@
+{
+  "os":  "Linux-6.8.0-31-generic-x86_64-with-glibc2.39",
+  "python":  "3.12.3",
+  "startedAt":  "2024-11-13T12:38:39.962131Z",
+  "program":  "/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/Llama3/test_learning_lama3.py",
+  "codePath":  "test_learning_lama3.py",
+  "email":  "ananjev.05@gmail.com",
+  "root":  "/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/Llama3",
+  "host":  "main",
+  "username":  "ubuntu",
+  "executable":  "/usr/bin/python3",
+  "codePathLocal":  "test_learning_lama3.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  4,
+  "gpu":  "NVIDIA A2",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "180505038848",
+      "used":  "155263127552"
+    }
+  },
+  "memory":  {
+    "total":  "16769236992"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  4
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA A2",
+      "memoryTotal":  "16101933056",
+      "cudaCores":  1280,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}

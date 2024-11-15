@@ -1,0 +1,34 @@
+  0%|                                                                                                              | 0/3 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/test_lama_run.py", line 268, in <module>
+    main()
+  File "/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/test_lama_run.py", line 263, in main
+    train_model(data_file)
+  File "/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/test_lama_run.py", line 217, in train_model
+    trainer.train()
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/transformers/trainer.py", line 2122, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/transformers/trainer.py", line 2474, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/transformers/trainer.py", line 3572, in training_step
+    loss = self.compute_loss(model, inputs, num_items_in_batch=num_items_in_batch)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: CustomTrainer.compute_loss() got an unexpected keyword argument 'num_items_in_batch'
+Traceback (most recent call last):
+  File "/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/test_lama_run.py", line 268, in <module>
+    main()
+  File "/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/test_lama_run.py", line 263, in main
+    train_model(data_file)
+  File "/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/test_lama_run.py", line 217, in train_model
+    trainer.train()
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/transformers/trainer.py", line 2122, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/transformers/trainer.py", line 2474, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/transformers/trainer.py", line 3572, in training_step
+    loss = self.compute_loss(model, inputs, num_items_in_batch=num_items_in_batch)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: CustomTrainer.compute_loss() got an unexpected keyword argument 'num_items_in_batch'

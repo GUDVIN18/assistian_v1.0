@@ -1,0 +1,19 @@
+{"time":"2024-11-13T14:43:57.426492105+03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-13T14:43:57.426552632+03:00","level":"INFO","msg":"created symlink","path":"/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/wandb/run-20241113_144357-y85lmg0d/logs/debug-core.log"}
+{"time":"2024-11-13T14:43:57.543058038+03:00","level":"INFO","msg":"created new stream","id":"y85lmg0d"}
+{"time":"2024-11-13T14:43:57.543097366+03:00","level":"INFO","msg":"stream: started","id":"y85lmg0d"}
+{"time":"2024-11-13T14:43:57.543206355+03:00","level":"INFO","msg":"sender: started","stream_id":"y85lmg0d"}
+{"time":"2024-11-13T14:43:57.543237835+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"y85lmg0d"}}
+{"time":"2024-11-13T14:43:57.54313698+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"y85lmg0d"}}
+{"time":"2024-11-13T14:43:57.956199472+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-13T14:43:58.74021651+03:00","level":"INFO","msg":"stream: closing","id":"y85lmg0d"}
+{"time":"2024-11-13T14:43:58.740268864+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-13T14:43:58.741173788+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-13T14:43:58.961873578+03:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-13T14:43:58.961906024+03:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-13T14:43:58.961909849+03:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-13T14:44:00.117939056+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-13T14:44:00.396200538+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"y85lmg0d"}}
+{"time":"2024-11-13T14:44:00.396268174+03:00","level":"INFO","msg":"sender: closed","stream_id":"y85lmg0d"}
+{"time":"2024-11-13T14:44:00.396228397+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"y85lmg0d"}}
+{"time":"2024-11-13T14:44:00.396606525+03:00","level":"INFO","msg":"stream: closed","id":"y85lmg0d"}

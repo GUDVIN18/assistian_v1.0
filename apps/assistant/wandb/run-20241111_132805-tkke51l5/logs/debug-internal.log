@@ -1,0 +1,19 @@
+{"time":"2024-11-11T13:28:05.383662972+03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-11T13:28:05.383679671+03:00","level":"INFO","msg":"created symlink","path":"/home/ubuntu/machine_learning/learning/machine_learning/apps/assistant/wandb/run-20241111_132805-tkke51l5/logs/debug-core.log"}
+{"time":"2024-11-11T13:28:05.486911194+03:00","level":"INFO","msg":"created new stream","id":"tkke51l5"}
+{"time":"2024-11-11T13:28:05.48696094+03:00","level":"INFO","msg":"stream: started","id":"tkke51l5"}
+{"time":"2024-11-11T13:28:05.487048064+03:00","level":"INFO","msg":"sender: started","stream_id":"tkke51l5"}
+{"time":"2024-11-11T13:28:05.487082318+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"tkke51l5"}}
+{"time":"2024-11-11T13:28:05.48699587+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tkke51l5"}}
+{"time":"2024-11-11T13:28:05.778237046+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-11T15:25:21.518900669+03:00","level":"INFO","msg":"stream: closing","id":"tkke51l5"}
+{"time":"2024-11-11T15:25:21.51893509+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-11T15:25:21.519516407+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-11T15:25:21.833649048+03:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-11T15:25:21.8336618+03:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-11T15:25:21.833664914+03:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-11T15:25:23.060737347+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-11T15:25:23.316156356+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"tkke51l5"}}
+{"time":"2024-11-11T15:25:23.316225065+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tkke51l5"}}
+{"time":"2024-11-11T15:25:23.31624865+03:00","level":"INFO","msg":"sender: closed","stream_id":"tkke51l5"}
+{"time":"2024-11-11T15:25:23.316295944+03:00","level":"INFO","msg":"stream: closed","id":"tkke51l5"}
